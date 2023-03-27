@@ -1,3 +1,6 @@
+//Quite Incomplete, That being said not too crushing. I think you may want to come back and 
+//edit this a bit and I'll give you a better grade but for now its quite incomplete.
+
 public class Rubiks {
 
 
